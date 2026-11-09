@@ -1,4 +1,4 @@
-# Control-flow-flattening-pass
+# control-flow-flattening-pass
 Control flow flattening is a transformation on a function that routes the natural control flow of a function via a central dispatcher made up of a while loop and switch statement.
 This project implements a simple control flow flattening in an LLVM pass.
 
